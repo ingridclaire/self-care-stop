@@ -20,7 +20,9 @@
   "homepage": "https://github.com/ingridclaire/pause-and-breathe#readme",
   "dependencies": {
     "@babel/polyfill": "^7.10.1",
+    "axios": "^0.19.2",
     "express": "^4.17.1",
+    "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
