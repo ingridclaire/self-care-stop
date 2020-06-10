@@ -1,0 +1,47 @@
+body {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h1 {
+  font-size: 72px;
+  margin-left: 20px;
+}
+
+h3 {
+  width: 300px;
+}
+
+.firstRow {
+  display: flex;
+  justify-content: stretch;
+}
+
+.smile {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.breathe {
+  margin: 15px 0px 15px 15px;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 15px 15px 0px;
+}
+
+.wrapHikes {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+p {
+  font-size: 12px;
+  width: 300px;
+}
+
+.hikeItem {
+  margin: 10px;
+}

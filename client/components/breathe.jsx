@@ -10,9 +10,9 @@ class Breathe extends React.Component {
   }
     render() {
       return (
-        <div class="breathe">
+        <div className="breathe">
           <h2>Mindful Breathing</h2>
-          <iframe src={this.state.breatheSrc} width="443" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href={this.state.breatheHref}>via GIPHY</a></p>
+          <iframe src={this.state.breatheSrc} width="443" height="480" frameBorder="0" className="giphy-embed" allowFullScreen></iframe><p><a href={this.state.breatheHref}>via GIPHY</a></p>
         </div>
       )
     }
