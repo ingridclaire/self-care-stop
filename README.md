@@ -14,9 +14,10 @@ navigate to localhost:3000
 
 ## Built With
 
-* [axios]
-* [express]
-* [MySQL]
+* React
+* axios
+* express
+* MySQL
 
 ## CRUD API:
 | Http Verbs | Endpoint           | Action                                 | Error ?            |
