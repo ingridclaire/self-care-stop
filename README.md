@@ -14,5 +14,14 @@ navigate to localhost:3000
 
 ## Built With
 
-*
+* [axios]
+* [express]
+* [MySQL]
+
+## CRUD API:
+| Http Verbs | Endpoint           | Action                                 | Error ?            |
+|------------|--------------------|----------------------------------------|--------------------|
+| POST       | /users             | adds a username to the database        |something went wrong|
+| GET        | /dogs              | retrieves new dog gif from thedogapi   |something went wrong|
+| GET        | //hikes/:lon&:lat  | gets hikes at coordinates from hike api|something went wrong|
 
