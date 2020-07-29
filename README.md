@@ -1,5 +1,9 @@
 # Self-Care Stop
-a self-care web app to help you take a mindful break for a few moments
+* a self-care web app to help you take a mindful break for a few moments
+* create a username
+* get new cute and funny dog gifs at the click of a button to improve your mood
+* enter your longitude and latitude to disover hikes near you for some outdoor time
+* regulate your breathing by matching it to the inhale/exhale animation
 
 ## Getting Started
 ```sh
